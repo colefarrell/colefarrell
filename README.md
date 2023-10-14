@@ -1,10 +1,10 @@
 ### Hi there, I'm Cole! 👋
 
-I'm a writer, student, and cat lover who lives in Indiana.
+:art: I'm a writer, student, and cat lover who lives in Indiana.
 
 I'm currently working on a curriculum for diverse learners to understand the history of American contemporary literature.
 
-Ask me about: cats, Nintendo, poetry, books, and Pokemon (and add me on Pokemon Go! ◓ 5309 4840 2357)
+Ask me about: cats, Nintendo, Broadway musicals, poetry, books, and Pokemon (and add me on Pokemon Go! ◓ 5309 4840 2357)
 
 <!--
 **colefarrell/colefarrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
